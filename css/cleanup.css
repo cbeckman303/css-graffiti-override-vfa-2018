@@ -3,15 +3,4 @@
   display: none;
 }
 
-#wall .tag-1 + div {
-  display: none;
-}
-
-#tag-3 {
-  display: none;
-}
-
-.slick_wicked {
-  display: none;
-}
 
