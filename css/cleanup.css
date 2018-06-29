@@ -7,15 +7,15 @@ div#wall #tag-2 {
   display: none;
 }
 
-div#wall id#tag-3.slick {
+div#wall div#tag-3.slick {
   display: none;
 }
 
-div#wall id#tag-4 {
+div#wall div#tag-4 {
   display: none;
 }
 
-div#wall class.parent id#tag-5.slick {
+div#wall div.parent div#tag-5.slick {
   background: url(../images/tag-5.png) no-repeat;
   z-index: 3;
   display: block;
